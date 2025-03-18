@@ -1,4 +1,4 @@
-This is a fork that allows to run **locally available models**.
+This is a fork that allows to run **locally available models** and **doesn't require Python 3.12+**.
 
 
 # Virtual Lab
