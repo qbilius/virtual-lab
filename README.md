@@ -1,3 +1,6 @@
+This is a fork that allows to run **locally available models**.
+
+
 # Virtual Lab
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/virtual-lab)](https://badge.fury.io/py/virtual-lab)
