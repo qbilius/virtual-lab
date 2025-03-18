@@ -9,4 +9,5 @@ __all__ = [
     "__version__",
     "Agent",
     "run_meeting",
+    "run_meeting_local",
 ]
